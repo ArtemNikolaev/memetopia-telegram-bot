@@ -1,0 +1,14 @@
+{
+  "name": "memetopia-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Artem Nikolaev",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-eventbridge": "^3.17.0"
+  }
+}
